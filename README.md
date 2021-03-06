@@ -10,7 +10,7 @@
 程序源码：https://gitee.com/ZiChen_3317/slime.git
 ---
 ### **使用的模块：**
-1. Rich
+1.  **Rich** 
 2. **re**
 3. **datetime**
 4. **random**
