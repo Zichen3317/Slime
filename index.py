@@ -63,7 +63,7 @@ while True:
                                             Num,
                                             'Random',
                                             filterRule,
-                                            filterPath),
+                                            None),
                                 formPath,
                                 'Random'))))
                         else:
@@ -71,7 +71,7 @@ while True:
                                                                                                            Num,
                                                                                                            'Random',
                                                                                                            filterRule,
-                                                                                                           filterPath))))
+                                                                                                           None))))
 
                 except:
                     console.print_exception()
